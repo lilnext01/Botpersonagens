@@ -219,6 +219,39 @@
   "type": "Drama adolescente, Intriga, Suspense, Crime, Relacionamentos amorosos, Segredos, Escola privada, Classe social, Suspense, Série, Triângulos amorosos, Diversidade, Juventude, Traição, Mistério",
   "price": 1847,
   "code": "t7_o0w"
- }
+ },
+    {
+    "index": true,
+    "url": "https://telegra.ph/file/4c5ce6fd4632c39e6fa12.jpg",
+    "name": "Luffy G5",
+    "desp": "One Piece",
+    "info": "Gear Fifth!!! Luffy nomeia a técnica. O Gear Fifth é a forma despertada da Hito Hito no Mi, Modelo: Nika, que fortalece o corpo de borracha do usuário. Também permite ao usuário a capacidade de manipular e transformar seu ambiente, semelhante ao despertar de uma Paramecia.",
+    "class": "Supremo",
+    "type": "Aventura, Ação",
+    "price": 18382,
+    "code": "32*RcY"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/e72f0c3d54c33b866b5f4.png",
+    "name": "Batman",
+    "desp": "DC",
+    "info": "Batman é um super-herói icônico da DC Comics, conhecido por ser um vigilante altamente habilidoso e por seu compromisso em proteger Gotham City do crime. Ele é identificado por seu traje distintivo de morcego e pela ausência de superpoderes, confiando em sua inteligência, recursos tecnológicos avançados e habilidades físicas para combater o crime. Por trás da máscara, ele é Bruce Wayne, um bilionário filantropo que utiliza sua fortuna para financiar sua guerra contra o crime.",
+    "class": "Transcendental",
+    "type": "Ação, Aventura, Crime, Violência",
+    "price": 618163,
+    "code": "G5<Y3Q"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/42b7ebda8e29be7d2327b.png",
+    "name": "Zdestro",
+    "desp": "Mitador",
+    "info": "zDestro é o mitador.\nO dominador da movimentação da M4. Conhecedor de todos os conhecimentos.\nUma entidade onipotente, com uma capacidade intelectual que sem dúvida alguma transcende o universo.\nEle é um ser mitológico, o Lorde Mitador.",
+    "class": "Transcendental",
+    "type": "Celebridade, Mistério, Psicológico, Sobrenatural, ídolo, Competição, Mestre, Influenciador",
+    "price": 900083,
+    "code": "pQP78!"
+  }
   ]
 }
