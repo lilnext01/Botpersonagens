@@ -6,7 +6,7 @@
       "name": "Son Goku",
       "desp": "Dragon Ball Super",
       "info": "Goku é um saiyajin que foi enviado à Terra quando era um bebê com a missão de conquistar o planeta, mas devido a um golpe na cabeça, perdeu seu instinto violento e se tornou um herói. Ele é conhecido por seu apetite insaciável, sua ingenuidade e sua paixão pelo combate. Ao longo da série, Goku embarca em inúmeras aventuras para proteger a Terra e alcançar novos objetivos, como se tornar o lutador mais forte do universo.",
-      "price": 200,
+      "price": 1500,
       "class": "Comum",
       "type": "Anime",
       "code": "95iYY%"
@@ -17,7 +17,7 @@
       "name": "Mikasa Ackerman",
       "desp": "Attack on Titan (Shingeki no Kyojin)",
       "info": "É uma jovem extremamente habilidosa em combate, criada junto a Eren Yeager depois que seus pais foram assassinados quando crianças. É leal e protetora com Eren, a quem vê como sua família. Mikasa é conhecida por sua frieza em combate e sua grande habilidade como soldado. Seu objetivo principal é proteger Eren e lutar contra os titãs que ameaçam a humanidade.",
-      "price": 700,
+      "price": 2500,
       "class": "Raro",
       "type": "Anime, Ação, Drama, Fantasia, Terror",
       "code": "U79Cn%"
@@ -28,7 +28,7 @@
       "name": "Thomas Stanley Holland",
       "desp": "Homem-Aranha",
       "info": "Tom Holland é conhecido principalmente por interpretar Peter Parker / Homem-Aranha no Universo Cinematográfico Marvel (MCU). É um ator talentoso e versátil que recebeu elogios por sua atuação como o icônico super-herói. Além de seu papel no MCU, Holland participou de outras produções cinematográficas e teatrais.",
-      "price": 1100,
+      "price": 4000,
       "class": "Épico",
       "type": "Celebridade, Cinema, Super-heróis, Ação, Drama",
       "code": "95UQ%r"
@@ -41,7 +41,7 @@
       "info": "Izuku, também conhecido como Deku, é um adolescente que vive em um mundo onde quase toda a população possui superpoderes chamados 'Quirks'. Apesar de nascer sem um Quirk, Izuku sonha em se tornar um herói como seu ídolo, All Might. Sua determinação e espírito o levam a ser selecionado por All Might para herdar seu Quirk e se tornar seu sucessor. Izuku é inteligente, compassivo e tem uma forte ética de trabalho, o que o leva a enfrentar numerosos desafios para alcançar seu objetivo de se tornar o herói número um.",
       "class": "Legendário",
       "type": "Anime, Ação, Super-heróis, Drama, Fantasia",
-      "price": 1746,
+      "price": 4500,
       "code": "3t3na^"
     },
     {
@@ -52,7 +52,7 @@
       "info": "Naruto é um ninja muito poderoso. Para alcançar o nível que tinha no final de Naruto Shippuden, Naruto teve que treinar por muito tempo, fortalecendo suas habilidades e superando suas fraquezas.",
       "class": "Raro",
       "type": "Anime, Ação, Aventura, Fantasia, Ninjas, Amizade, Superpoderes",
-      "price": 675,
+      "price": 1200,
       "code": "bIQ^51"
     },
     {
@@ -63,7 +63,7 @@
   "info": "Itachi Uchiha é um ninja da Aldeia Oculta da Folha e membro do Clã Uchiha, conhecido por sua excepcional habilidade em combate e seu prodigioso talento como ninja. Embora inicialmente seja apresentado como um vilão que assassinou seu próprio clã, incluindo sua família, mais tarde é revelado que Itachi tinha razões complexas e justificadas para suas ações, relacionadas à proteção da aldeia e de seu irmão mais novo, Sasuke. Apesar de ser um enigma para muitos, Itachi é um personagem profundamente complexo e atormentado por suas decisões.",
   "class": "Raro",
   "type": "Fogo, Aventura, Fantasia",
-  "price": 678,
+  "price": 1258,
   "code": "sEE8<9"
 },
 {
@@ -74,7 +74,7 @@
   "info": "Luffy é um jovem pirata que sonha em se tornar o Rei dos Piratas, título que pertencia ao lendário Gol D. Roger. Luffy obtém poderes da Fruta do Diabo Gomu Gomu, que lhe permite esticar seu corpo como se fosse borracha. Ele é extremamente corajoso, imprudente e sempre está disposto a ajudar seus amigos. Luffy é conhecido por sua natureza despreocupada e sua determinação inabalável, bem como sua capacidade de reunir um grupo variado de piratas sob sua bandeira em busca do tesouro conhecido como o 'One Piece'.",
   "class": "Comum",
   "type": "Anime, Ação, Aventura, Piratas, Fantasia, Amizade, Comédia",
-  "price": 153,
+  "price": 221,
   "code": "0<KHO7"
 },
 {
@@ -96,7 +96,7 @@
   "info": "Misa Amane é uma famosa ídola e modelo no mundo fictício de 'Death Note'. Depois que sua família foi assassinada por um serial killer, Misa se torna a portadora de um segundo Death Note. Ela é extremamente leal a Light Yagami, a quem idolatra e admira como um deus. Misa está disposta a fazer qualquer coisa por ele, até mesmo sacrificar sua própria vida. Apesar de sua aparência inocente e carinhosa, Misa é astuta e está disposta a usar o Death Note para ajudar Light em sua busca por justiça, tornando-se uma figura complicada na trama.",
   "class": "Épico",
   "type": "Anime, Mistério, Psicológico, Sobrenatural, Thriller, Crime, Drama, Ídolo",
-  "price": 808,
+  "price": 1432,
   "code": "3i<M5z"
 },
 {
@@ -107,7 +107,7 @@
   "info": "O chefe da Unidade de Investigação Especial da Polícia Japonesa em 'Death Note'. É um homem íntegro, justo e dedicado ao seu trabalho como policial. Ao longo da série, Yagami lidera a investigação para capturar o misterioso assassino em série conhecido como 'Kira', sem saber que seu próprio filho, Light Yagami, é na verdade Kira. Soichiro se esforça para cumprir seu dever como policial e enfrenta dilemas éticos difíceis à medida que a trama se desenrola.",
   "class": "Comum",
   "type": "Anime, Mistério, Psicológico, Sobrenatural, Thriller, Crime, Drama, Policial",
-  "price": 108,
+  "price": 123,
   "code": "79UKU%"
 },
 {
@@ -118,7 +118,7 @@
   "info": "Asuna Yuuki é uma das protagonistas principais de 'Sword Art Online'. No jogo de realidade virtual Sword Art Online, Asuna é uma espadachim habilidosa e corajosa que se destaca em combate. Ao longo da série, ela desenvolve um relacionamento próximo com o protagonista, Kirito, e juntos enfrentam numerosos desafios dentro e fora do jogo. Asuna é retratada como uma pessoa forte, determinada e leal aos seus amigos, disposta a fazer o que for preciso para protegê-los e alcançar seus objetivos.",
   "class": "Épico",
   "type": "Anime, Ação, Aventura, Romance, Realidade Virtual, Fantasia",
-  "price": 1047,
+  "price": 1532,
   "code": "B6YQ%8"
 },
 {
@@ -129,7 +129,7 @@
   "info": "Erza Scarlet é uma poderosa maga e membro destacado da guilda de magos Fairy Tail. É conhecida como 'Erza a Titânia' devido à sua grande habilidade em combate e sua posição de liderança dentro da guilda. Erza é uma guerreira formidável que domina a magia do Re-Equipamento, que lhe permite mudar de armadura e armas no meio da batalha conforme necessário. Apesar de sua aparência séria e determinada em combate, Erza também mostra um lado gentil e compassivo para com seus amigos e companheiros de guilda.",
   "class": "Épico",
   "type": "Anime, Ação, Aventura, Magia, Fantasia, Amizade, Comédia",
-  "price": 1179,
+  "price": 1789,
   "code": "UP%30J"
 },
 {
@@ -140,7 +140,7 @@
   "info": "Yoichi Isagi é o protagonista principal de 'Blue Lock'. É um talentoso atacante que joga futebol. Apesar de ser um jogador habilidoso, Isagi é passivo e carece de confiança em si mesmo no início da série. No entanto, sua perspectiva muda quando é recrutado para participar do projeto 'Blue Lock', um programa de treinamento intensivo projetado para criar o atacante definitivo. Conforme avança no programa, Isagi enfrenta desafios físicos e mentais enquanto luta para se tornar um verdadeiro líder e alcançar seu máximo potencial como jogador de futebol.",
   "class": "Legendário",
   "type": "Mangá, Esportes, Drama, Competição, Superação, Psicológico",
-  "price": 1760,
+  "price": 3219,
   "code": "V9Ua0%"
 },
 {
@@ -162,7 +162,7 @@
   "info": "Brook é um esqueleto vivo e músico que se junta à tripulação dos Piratas do Chapéu de Palha em 'One Piece'. Originalmente, Brook era um humano que consumiu a Fruta Revive-Revive, o que lhe permitiu retornar à vida após a morte. No entanto, sua alma acabou voltando para seu esqueleto. Brook é um espadachim habilidoso e tem uma personalidade alegre e extravagante. É conhecido por seu amor pela música e sua habilidade de tocar violino, bem como por sua tendência a fazer piadas sobre sua natureza esquelética.",
   "class": "Pouco Comum",
   "type": "Mangá, Anime, Aventura, Piratas, Comédia, Fantasia, Música",
-  "price": 300,
+  "price": 401,
   "code": "8loJ5@"
 },
 {
@@ -173,7 +173,7 @@
   "info": "Zoro É Um Dos Tripulantes De Luffy, E É Um Dos Mais Fortes E Dedicados. Sua Personalidade É Forte, Determinada E Dura, Mas Também Tem Um Grande Coração E Uma Grande Lealdade A Seu Capitão.",
   "class": "Supremo",
   "type": "Mangá, Anime, Aventura, Piratas, Artes Marciais, Ação, Comédia",
-  "price": 19256,
+  "price": 50318,
   "code": "s3l0p<"
 },
 {
@@ -184,7 +184,7 @@
   "info": "Alastor é um demônio poderoso e carismático conhecido como 'O Demônio do Rádio'. É um ser misterioso que aparece no inferno e rapidamente faz um nome como um dos demônios mais temidos e respeitados. Alastor tem uma personalidade encantadora e manipuladora, com uma inclinação para o caos e a destruição, mas sempre mantendo um sorriso sinistro e um ar de cortesia. É habilidoso no uso da magia e tem uma afinidade particular por rádios e transmissões de rádio. Embora possa parecer encantador, Alastor é um ser perigoso e suas verdadeiras intenções não podem ser confiáveis.",
   "class": "Raro",
   "type": "Animação, Comédia, Sobrenatural, Demônios, Fantasia, Horror, Mistério",
-  "price": 700,
+  "price": 802,
   "code": "<84NMj"
 },
 {
@@ -206,7 +206,7 @@
   "info": "Goku Black é uma versão alternativa malévola de Goku que vem de um universo alternativo. Neste universo, Goku Black é na verdade Zamasu, um Kaio-shin (deus da criação) que obteve o corpo de Goku e assumiu sua aparência. Usando as Esferas do Dragão, Zamasu troca de corpos com Goku e depois procede a semear o caos e a destruição em vários universos. Goku Black é extremamente poderoso e mostra um domínio superior das habilidades de Goku, além de possuir uma mentalidade malévola e impiedosa. É conhecido por sua aparência física semelhante à de Goku, mas com uma aura escura e maligna.",
   "class": "Legendário",
   "type": "Anime, Ação, Aventura, Ficção Científica, Fantasia, Artes Marciais, Universos Paralelos",
-  "price": 2178,
+  "price": 100000,
   "code": "TA08*p"
 },
 {
@@ -217,7 +217,7 @@
   "info": "Leopoldo Benavent Villada, mais comumente conhecido como Polo, era um personagem principal na série Élite da Netflix. Era um estudante que frequentava Las Encinas e se tornou objeto de ódio em massa após o assassinato acidental de sua colega de classe, Marina Nunier Osuna. Foi interpretado por Álvaro Rico.",
   "class": "Épico",
   "type": "Drama adolescente, Intriga, Suspense, Crime, Relacionamentos amorosos, Segredos, Escola privada, Classe social, Suspense, Série, Triângulos amorosos, Diversidade, Juventude, Traição, Mistério",
-  "price": 1096,
+  "price": 1847,
   "code": "t7_o0w"
 }
 ]
