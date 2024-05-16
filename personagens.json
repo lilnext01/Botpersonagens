@@ -340,6 +340,28 @@
     "type": "Açao, Aventura, Ficção",
     "price": 459723,
     "code": "%20TCS"
+  },
+    {
+    "index": true,
+    "url": "https://telegra.ph/file/ddbf23bb28521aff2f78b.jpg",
+    "name": "Jair Bolsonaro",
+    "desp": "Brasil",
+    "info": "Jair Bolsonaro é um mito brasileiro que atuava como presidente do Brasil. Mas que foi tirado do governo para o povo comer abóbora",
+    "class": "Transcendental",
+    "type": "Humor, Mitadas, Heroísmo",
+    "price": 638892,
+    "code": "VFK98!"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/d99c5e43f8f31bd384e75.jpg",
+    "name": "Super XandãO O Ultimo HeróI",
+    "desp": "Streamer",
+    "info": "Mais conhecido como o ultimo Herói da terra, super é um xandao matador de demônios e o homem com os socos mais rápidos e poderosos já existentes na terra.  Se vc for um beta corra, este homem irá atrás de você.",
+    "class": "Transcendental",
+    "type": "Humor, Comedia",
+    "price": 354677,
+    "code": "IQ1*w3"
   }
   ]
 }
