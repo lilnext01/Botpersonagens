@@ -362,6 +362,39 @@
     "type": "Humor, Comedia",
     "price": 354677,
     "code": "IQ1*w3"
+  },
+    {
+    "index": true,
+    "url": "https://telegra.ph/file/7c637991951524b885e4f.png",
+    "name": "Steve",
+    "desp": "Minecraft",
+    "info": "Steve é o protagonista do jogo 'Minecraft', um mundo aberto onde os jogadores podem construir, explorar e sobreviver em um ambiente gerado proceduralmente. Ele é um personagem padrão do jogo, conhecido por sua aparência cubista e pela sua versatilidade em diversas atividades, desde construir estruturas simples até enfrentar monstros e explorar cavernas.",
+    "class": "Épico",
+    "type": "Aventura, Ação, Sobrevivência",
+    "price": 1592,
+    "code": "ZS_m29"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/f6f6a5843bbc3dddee6ec.jpg",
+    "name": "Herobrine",
+    "desp": "Minecraft",
+    "info": "Herobrine é uma lenda urbana dentro da comunidade de jogadores de 'Minecraft'. Ele é descrito como uma figura misteriosa, semelhante a Steve, mas com olhos brilhantes e assustadores. Diz-se que Herobrine é uma entidade maligna que persegue os jogadores no jogo, causando estragos e criando situações assustadoras. No entanto, é importante notar que Herobrine não é um personagem oficial do jogo e sua existência é apenas um mito criado pela comunidade.",
+    "class": "Lendário",
+    "type": "Vilão, Sobrevivência, Ação, Aventura",
+    "price": 4891,
+    "code": "qMW57*"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/859e4a6d2393e67e65188.jpg",
+    "name": "Lula",
+    "desp": "PT",
+    "info": "#LulaLadrão #FazOL Sem dedo",
+    "class": "Raro",
+    "type": "Ladrão",
+    "price": 900,
+    "code": "Cjy8@1"
   }
   ]
 }
