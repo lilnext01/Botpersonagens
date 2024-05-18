@@ -406,6 +406,171 @@
     "type": "Quadrinhos",
     "price": 7500000,
     "code": "uWsk@A"
+  },
+    {
+    "index": true,
+    "url": "https://telegra.ph/file/c9b3f73cc66fa7b440e72.jpg",
+    "name": "Ichigo",
+    "desp": "Bleach",
+    "info": "tem uma variedade gigantesca de poderes e habilidades, começando por ser extremamente habilidoso em combate corpo a corpo, apresentando uma força gigante além de velocidade e reflexos.",
+    "class": "Comum",
+    "type": "Aventura, Ação",
+    "price": 577,
+    "code": "Yc5!3B"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/99855ce0efcea2ae56a7b.jpg https://telegra.ph/file/c9b3f73cc66fa7b440e72.jpg",
+    "name": "Ichigo Lv2",
+    "desp": "Bleach",
+    "info": "tem uma variedade gigantesca de poderes e habilidades, começando por ser extremamente habilidoso em combate corpo a corpo, apresentando uma força gigante além de velocidade e reflexos.",
+    "class": "Épico",
+    "type": "Aventura, Ação",
+    "price": 2055,
+    "code": "3*5oZV"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/f453314c0b601316c52f9.jpg",
+    "name": "Ichigo Lv3",
+    "desp": "Bleach",
+    "info": "tem uma variedade gigantesca de poderes e habilidades, começando por ser extremamente habilidoso em combate corpo a corpo, apresentando uma força gigante além de velocidade e reflexos.",
+    "class": "Supremo",
+    "type": "Aventura, Ação",
+    "price": 93915,
+    "code": "Go%C82"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/f453314c0b601316c52f9.jpg",
+    "name": "Ichigo Lv3",
+    "desp": "Bleach",
+    "info": "tem uma variedade gigantesca de poderes e habilidades, começando por ser extremamente habilidoso em combate corpo a corpo, apresentando uma força gigante além de velocidade e reflexos.",
+    "class": "Supremo",
+    "type": "Aventura, Ação",
+    "price": 53506,
+    "code": "B<58QJ"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/69392a4ed5585746ba01e.jpg",
+    "name": "Ichigo Lv3",
+    "desp": "Bleach",
+    "info": "tem uma variedade gigantesca de poderes e habilidades, começando por ser extremamente habilidoso em combate corpo a corpo, apresentando uma força gigante além de velocidade e reflexos.",
+    "class": "Transcendental",
+    "type": "Aventura, Ação",
+    "price": 536331,
+    "code": "2bd@R9"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/c87d6eb193de86c6cebc3.jpg",
+    "name": "Yami Sukehiro",
+    "desp": "Black Clover",
+    "info": "Os feitos e poderes de Yami Sukehiro incluem sua habilidade de controlar e manipular a escuridão, o que lhe confere uma vantagem em combate. Ele é extremamente rápido e ágil, sendo capaz de reagir rapidamente aos ataques de seus inimigos.Yami também é conhecido por sua força física e resistência excepcionais, o que lhe permite enfrentar adversários poderosos com confiança. Além disso, ele é um estrategista habilidoso e sabe como usar sua magia de forma eficiente em batalha.",
+    "class": "Comum",
+    "type": "Aventura, Ação, Demônio, Magia",
+    "price": 680,
+    "code": "Ukd10@"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/5731fd049ce63b21e09e8.jpg",
+    "name": "Yami Sukehiro",
+    "desp": "Black Clover",
+    "info": "Os feitos e poderes de Yami Sukehiro incluem sua habilidade de controlar e manipular a escuridão, o que lhe confere uma vantagem em combate. Ele é extremamente rápido e ágil, sendo capaz de reagir rapidamente aos ataques de seus inimigos.Yami também é conhecido por sua força física e resistência excepcionais, o que lhe permite enfrentar adversários poderosos com confiança. Além disso, ele é um estrategista habilidoso e sabe como usar sua magia de forma eficiente em batalha.",
+    "class": "Épico",
+    "type": "Aventura, Ação, Demônio, Magia",
+    "price": 1446,
+    "code": "@9C8Mk"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/daf13519c8884d2465511.jpg",
+    "name": "Yami Sukehiro",
+    "desp": "Black Clover",
+    "info": "Os feitos e poderes de Yami Sukehiro incluem sua habilidade de controlar e manipular a escuridão, o que lhe confere uma vantagem em combate. Ele é extremamente rápido e ágil, sendo capaz de reagir rapidamente aos ataques de seus inimigos.Yami também é conhecido por sua força física e resistência excepcionais, o que lhe permite enfrentar adversários poderosos com confiança. Além disso, ele é um estrategista habilidoso e sabe como usar sua magia de forma eficiente em batalha.",
+    "class": "Supremo",
+    "type": "Aventura, Ação, Demônio, Magia",
+    "price": 92155,
+    "code": "Y07Aw!"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/695ecfd49abc2e64d7d61.jpg",
+    "name": "Yami Sukehiro",
+    "desp": "Black Clover",
+    "info": "Os feitos e poderes de Yami Sukehiro incluem sua habilidade de controlar e manipular a escuridão, o que lhe confere uma vantagem em combate. Ele é extremamente rápido e ágil, sendo capaz de reagir rapidamente aos ataques de seus inimigos.Yami também é conhecido por sua força física e resistência excepcionais, o que lhe permite enfrentar adversários poderosos com confiança. Além disso, ele é um estrategista habilidoso e sabe como usar sua magia de forma eficiente em batalha.",
+    "class": "Transcendental",
+    "type": "Aventura, Ação, Demônio, Magia",
+    "price": 381830,
+    "code": "bT@A38"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/e9942ca1ff5c1721d93ad.jpg",
+    "name": "Asta",
+    "desp": "Black Clover",
+    "info": "Asta é o protagonista de Black Clover, um jovem órfão sem poderes mágicos em um mundo onde todos têm habilidades mágicas. No entanto, ele compensa isso com incrível força física e determinação. Com sua Espada Demoníaca e poder de Anti-Magia, ele enfrenta inimigos poderosos, mostrando inteligência tática e desenvolvendo uma forma demoníaca. Sua jornada é uma história de superação e crescimento, inspirando outros com sua coragem e determinação.",
+    "class": "Comum",
+    "type": "Aventura, Magia, Ação",
+    "price": 836,
+    "code": "l_pb86"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/44fed3695d3a53b9150a0.jpg",
+    "name": "Asta",
+    "desp": "Black Clover",
+    "info": "Asta é o protagonista de Black Clover, um jovem órfão sem poderes mágicos em um mundo onde todos têm habilidades mágicas. No entanto, ele compensa isso com incrível força física e determinação. Com sua Espada Demoníaca e poder de Anti-Magia, ele enfrenta inimigos poderosos, mostrando inteligência tática e desenvolvendo uma forma demoníaca. Sua jornada é uma história de superação e crescimento, inspirando outros com sua coragem e determinação.",
+    "class": "Raro",
+    "type": "Aventura, Magia, Ação",
+    "price": 828,
+    "code": "GFh28#"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/40799909037bd5b711b48.jpg",
+    "name": "Asta",
+    "desp": "Black Clover",
+    "info": "Asta é o protagonista de Black Clover, um jovem órfão sem poderes mágicos em um mundo onde todos têm habilidades mágicas. No entanto, ele compensa isso com incrível força física e determinação. Com sua Espada Demoníaca e poder de Anti-Magia, ele enfrenta inimigos poderosos, mostrando inteligência tática e desenvolvendo uma forma demoníaca. Sua jornada é uma história de superação e crescimento, inspirando outros com sua coragem e determinação.",
+    "class": "Épico",
+    "type": "Aventura, Magia, Ação",
+    "price": 1879,
+    "code": "E1*0Sh"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/5cb155cc0a628b774cd53.jpg",
+    "name": "Asta",
+    "desp": "Black Clover",
+    "info": "Asta é o protagonista de Black Clover, um jovem órfão sem poderes mágicos em um mundo onde todos têm habilidades mágicas. No entanto, ele compensa isso com incrível força física e determinação. Com sua Espada Demoníaca e poder de Anti-Magia, ele enfrenta inimigos poderosos, mostrando inteligência tática e desenvolvendo uma forma demoníaca. Sua jornada é uma história de superação e crescimento, inspirando outros com sua coragem e determinação.",
+    "class": "Supremo",
+    "type": "Aventura, Magia, Ação",
+    "price": 151810,
+    "code": "7^Kn8T"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/9cac4c34be164ee85d9b2.jpg",
+    "name": "Asta",
+    "desp": "Black Clover",
+    "info": "Asta é o protagonista de Black Clover, um jovem órfão sem poderes mágicos em um mundo onde todos têm habilidades mágicas. No entanto, ele compensa isso com incrível força física e determinação. Com sua Espada Demoníaca e poder de Anti-Magia, ele enfrenta inimigos poderosos, mostrando inteligência tática e desenvolvendo uma forma demoníaca. Sua jornada é uma história de superação e crescimento, inspirando outros com sua coragem e determinação.",
+    "class": "Transcendental",
+    "type": "Aventura, Magia, Ação",
+    "price": 311786,
+    "code": "37Ivc<"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/c9a7f5ff6363654ae7a48.jpg",
+    "name": "Asta",
+    "desp": "Black Clover",
+    "info": "Asta é o protagonista de Black Clover, um jovem órfão sem poderes mágicos em um mundo onde todos têm habilidades mágicas. No entanto, ele compensa isso com incrível força física e determinação. Com sua Espada Demoníaca e poder de Anti-Magia, ele enfrenta inimigos poderosos, mostrando inteligência tática e desenvolvendo uma forma demoníaca. Sua jornada é uma história de superação e crescimento, inspirando outros com sua coragem e determinação.",
+    "class": "Sublime",
+    "type": "Aventura, Magia, Ação",
+    "price": 8325671,
+    "code": "aYK6#9"
   }
   ]
 }
