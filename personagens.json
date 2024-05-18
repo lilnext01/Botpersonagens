@@ -395,6 +395,17 @@
     "type": "Ladrão",
     "price": 900,
     "code": "Cjy8@1"
+  },
+    {
+    "index": true,
+    "url": "https://telegra.ph/file/bf6ebc8b3fa9bc15b10fb.jpg",
+    "name": "Os Celestiais",
+    "desp": "Marvel",
+    "info": "Os Celestiais são seres cósmicos responsáveis pela criação do universo, experimentação genética em várias espécies, julgamento de mundos e participação em eventos cósmicos de grande escala.",
+    "class": "Sublime",
+    "type": "Quadrinhos",
+    "price": 1800000,
+    "code": "uWsk@A"
   }
   ]
 }
