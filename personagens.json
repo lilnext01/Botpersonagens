@@ -420,7 +420,7 @@
   },
   {
     "index": true,
-    "url": "https://telegra.ph/file/99855ce0efcea2ae56a7b.jpg https://telegra.ph/file/c9b3f73cc66fa7b440e72.jpg",
+    "url": "https://telegra.ph/file/99855ce0efcea2ae56a7b.jpg",
     "name": "Ichigo Lv2",
     "desp": "Bleach",
     "info": "tem uma variedade gigantesca de poderes e habilidades, começando por ser extremamente habilidoso em combate corpo a corpo, apresentando uma força gigante além de velocidade e reflexos.",
@@ -560,17 +560,6 @@
     "type": "Aventura, Magia, Ação",
     "price": 311786,
     "code": "37Ivc<"
-  },
-  {
-    "index": true,
-    "url": "https://telegra.ph/file/c9a7f5ff6363654ae7a48.jpg",
-    "name": "Asta",
-    "desp": "Black Clover",
-    "info": "Asta é o protagonista de Black Clover, um jovem órfão sem poderes mágicos em um mundo onde todos têm habilidades mágicas. No entanto, ele compensa isso com incrível força física e determinação. Com sua Espada Demoníaca e poder de Anti-Magia, ele enfrenta inimigos poderosos, mostrando inteligência tática e desenvolvendo uma forma demoníaca. Sua jornada é uma história de superação e crescimento, inspirando outros com sua coragem e determinação.",
-    "class": "Sublime",
-    "type": "Aventura, Magia, Ação",
-    "price": 8325671,
-    "code": "aYK6#9"
   }
   ]
 }
