@@ -565,10 +565,10 @@
     "index": true,
     "url": "https://telegra.ph/file/e6d41df2eba00ed0b377b.jpg",
     "name": "Developer",
-    "desp": "Garoto de Programa",
+    "desp": "Moderator",
     "info": "Developer Back-End & Front-End && Dev Python & JS",
     "class": "Épico",
-    "type": "Developer",
+    "type": "Garoto de Programa",
     "price": 3958,
     "code": "!YT8w4"
   },
@@ -576,10 +576,10 @@
     "index": true,
     "url": "https://telegra.ph/file/139085ff72726ad57cf03.jpg",
     "name": "Moderator",
-    "desp": "Garoto de Programa",
+    "desp": "Moderator",
     "info": "Téc. em Desenvolvimento de Sistemas",
     "class": "Épico",
-    "type": "Moderator",
+    "type": "Garoto de Programa",
     "price": 2897,
     "code": "FP8*8K"
   }
