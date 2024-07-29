@@ -550,6 +550,28 @@
     "price": 151810,
     "code": "7^Kn8T"
   },
+    {
+    "index": true,
+    "url": "https://telegra.ph/file/e6d41df2eba00ed0b377b.jpg",
+    "name": "Developer",
+    "desp": "Garoto de Programa",
+    "info": "Developer Back-End & Front-End && Dev Python & JS",
+    "class": "Épico",
+    "type": "Developer",
+    "price": 3958,
+    "code": "!YT8w4"
+  },
+  {
+    "index": true,
+    "url": "https://telegra.ph/file/139085ff72726ad57cf03.jpg",
+    "name": "Moderator",
+    "desp": "Garoto de Programa",
+    "info": "Téc. em Desenvolvimento de Sistemas",
+    "class": "Épico",
+    "type": "Moderator",
+    "price": 2897,
+    "code": "FP8*8K"
+  },
   {
     "index": true,
     "url": "https://telegra.ph/file/055a37f9ef5aa9689ea16.png",
